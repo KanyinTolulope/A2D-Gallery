@@ -1,0 +1,22 @@
+
+
+/* Global */
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+}
+
+
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color: grey;
+  text-align: center;
+}
+
+.primary-color{
+  color: #35424a;
+}
+
